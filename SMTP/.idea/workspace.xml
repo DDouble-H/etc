@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="00336081-5748-46a9-9c77-287d363942ed" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../chromedriver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crawler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../withHYU.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1YeZTqquYYgjnNJ98gi4ExoPGui" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Python.email">
+    <configuration name="BT" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SMTP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/Data-Structure-and-Algorithms/Data-Structure/binary_tree" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/PycharmProjects/Data-Structure-and-Algorithms/Data-Structure/binary_tree/BT.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mail" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SMTP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mail.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SMTP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.email" />
+        <item itemvalue="Python.BT" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00336081-5748-46a9-9c77-287d363942ed" name="Default Changelist" comment="" />
+      <created>1583305030432</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583305030432</updated>
+      <workItem from="1583305032518" duration="10819000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1238" height="223" key="GridCell.Tab.0.bottom" timestamp="1583316432380">
+      <screen x="1280" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1238" height="223" key="GridCell.Tab.0.bottom/0.0.1280.800/1280.0.1920.1080@1280.0.1920.1080" timestamp="1583316432380" />
+    <state width="1238" height="286" key="GridCell.Tab.0.bottom/0.23.1280.777/1280.23.1920.1002@1280.23.1920.1002" timestamp="1583315127512" />
+    <state width="1238" height="223" key="GridCell.Tab.0.center" timestamp="1583316432379">
+      <screen x="1280" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1238" height="223" key="GridCell.Tab.0.center/0.0.1280.800/1280.0.1920.1080@1280.0.1920.1080" timestamp="1583316432379" />
+    <state width="1238" height="286" key="GridCell.Tab.0.center/0.23.1280.777/1280.23.1920.1002@1280.23.1920.1002" timestamp="1583315127511" />
+    <state width="1238" height="223" key="GridCell.Tab.0.left" timestamp="1583316432378">
+      <screen x="1280" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1238" height="223" key="GridCell.Tab.0.left/0.0.1280.800/1280.0.1920.1080@1280.0.1920.1080" timestamp="1583316432378" />
+    <state width="1238" height="286" key="GridCell.Tab.0.left/0.23.1280.777/1280.23.1920.1002@1280.23.1920.1002" timestamp="1583315127511" />
+    <state width="1238" height="223" key="GridCell.Tab.0.right" timestamp="1583316432379">
+      <screen x="1280" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1238" height="223" key="GridCell.Tab.0.right/0.0.1280.800/1280.0.1920.1080@1280.0.1920.1080" timestamp="1583316432379" />
+    <state width="1238" height="286" key="GridCell.Tab.0.right/0.23.1280.777/1280.23.1920.1002@1280.23.1920.1002" timestamp="1583315127512" />
+    <state width="1238" height="223" key="GridCell.Tab.1.bottom" timestamp="1583316432383">
+      <screen x="1280" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1238" height="223" key="GridCell.Tab.1.bottom/0.0.1280.800/1280.0.1920.1080@1280.0.1920.1080" timestamp="1583316432383" />
+    <state width="1238" height="223" key="GridCell.Tab.1.bottom/0.23.1280.777/1280.23.1920.1002@1280.23.1920.1002" timestamp="1583311902242" />
+    <state width="1238" height="223" key="GridCell.Tab.1.center" timestamp="1583316432381">
+      <screen x="1280" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1238" height="223" key="GridCell.Tab.1.center/0.0.1280.800/1280.0.1920.1080@1280.0.1920.1080" timestamp="1583316432381" />
+    <state width="1238" height="223" key="GridCell.Tab.1.center/0.23.1280.777/1280.23.1920.1002@1280.23.1920.1002" timestamp="1583311902242" />
+    <state width="1238" height="223" key="GridCell.Tab.1.left" timestamp="1583316432381">
+      <screen x="1280" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1238" height="223" key="GridCell.Tab.1.left/0.0.1280.800/1280.0.1920.1080@1280.0.1920.1080" timestamp="1583316432381" />
+    <state width="1238" height="223" key="GridCell.Tab.1.left/0.23.1280.777/1280.23.1920.1002@1280.23.1920.1002" timestamp="1583311902241" />
+    <state width="1238" height="223" key="GridCell.Tab.1.right" timestamp="1583316432382">
+      <screen x="1280" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1238" height="223" key="GridCell.Tab.1.right/0.0.1280.800/1280.0.1920.1080@1280.0.1920.1080" timestamp="1583316432382" />
+    <state width="1238" height="223" key="GridCell.Tab.1.right/0.23.1280.777/1280.23.1920.1002@1280.23.1920.1002" timestamp="1583311902242" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SMTP$test.coverage" NAME="test Coverage Results" MODIFIED="1583310259936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SMTP$email.coverage" NAME="mail Coverage Results" MODIFIED="1583316213823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SMTP$BT.coverage" NAME="BT Coverage Results" MODIFIED="1583311898656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/Data-Structure-and-Algorithms/Data-Structure/binary_tree" />
+  </component>
+</project>
